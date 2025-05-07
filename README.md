@@ -18,12 +18,12 @@ A data analysis project that explores the global impact of COVID-19 using real-w
 
 
 ## ▶️ How to Run/View the Project
-  Clone this repository
+* Clone this repository
     https://github.com/MohamedBashir2093/COVID-19-Global-Data-Tracker.git
-  Open the `covid_tracker.ipynb` 
-  Make sure the `.csv` data file(s) (`covid_data.csv`) are in the same folder as the notebook.
-  Run all cells to view the analysis and visualizations.
-  You can explore the charts for insights into different countries' responses and outcomes.
+* Open the `covid_tracker.ipynb` 
+* Make sure the `.csv` data file(s) (`covid_data.csv`) are in the same folder as the notebook.
+* Run all cells to view the analysis and visualizations.
+* You can explore the charts for insights into different countries' responses and outcomes.
 
 ## 💡 Insights and Reflections
 
