@@ -3,6 +3,13 @@
 
 A data analysis project that explores the global impact of COVID-19 using real-world datasets. The project includes data cleaning, exploration, and visualization to uncover trends in cases, deaths, and vaccinations across countries.
 
+📁 Dataset
+Source: Our World in Data - COVID-19
+
+Download file manually: owid-covid-data.csv
+
+File name used: owid-covid-data.csv
+
 ## 🎯 Objectives of the Project
 
 * To analyze COVID-19 trends across different countries.
